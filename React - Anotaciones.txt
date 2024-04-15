@@ -1,0 +1,18 @@
+npx --> ultima version del repositorio oficial
+npm --> ultima version que tenga instalada en mi PC
+nvm --> node version manager ()
+nvm use v14 (switch de version, para usar se lo instala npm i nvm -g)
+
+
+CSR --> Client Side Render (el navegador la renderiza la app)
+SSR --> Server Side Render (La renderizacion la hace el servidor, Proteccion de datos, (Framework Next), SEO)
+
+Webpack
+Babel
+(Para que nos entienda el navegador y sea retrocompatible JSX y por eso se usa npm i create-react-app -g)
+
+SPA (Single Page App, todo en el div del index recarga o crea el componente en el DOM)
+
+npm run build (es como el war de java, se genera el build y se sube el build. Minificado y Agrificado)
+
+prettier crtl + s
